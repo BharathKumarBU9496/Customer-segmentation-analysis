@@ -1,2 +1,2 @@
 # Customer-segmentation-analysis
-Using Tableau, I visualized customer segmentation
+Using Tableau, I visualized customer segmentation.
